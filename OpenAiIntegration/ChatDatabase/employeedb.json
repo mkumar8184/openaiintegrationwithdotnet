@@ -1,0 +1,49 @@
+{
+ "Employees": [
+    {
+      "EmployeeId": "00001",
+      "EmployeeName": "John Doe",
+      "DateOfBirth": "1985-05-05",
+      "Nationality": "American",
+      "Position": "Software Engineer",
+      "Department": "Development",
+      "Manager": "Jane Smith"
+    },
+    {
+      "EmployeeId": "00002",
+      "EmployeeName": "Alice Johnson",
+      "DateOfBirth": "1990-08-12",
+      "Nationality": "Canadian",
+      "Position": "Project Manager",
+      "Department": "Project Management",
+      "Manager": "John Doe"
+    },
+    {
+      "EmployeeId": "00003",
+      "EmployeeName": "Bob Brown",
+      "DateOfBirth": "1982-03-23",
+      "Nationality": "British",
+      "Position": "UX Designer",
+      "Department": "Design",
+      "Manager": "Alice Johnson"
+    },
+    {
+      "EmployeeId": "00004",
+      "EmployeeName": "Emily Davis",
+      "DateOfBirth": "1995-11-30",
+      "Nationality": "Australian",
+      "Position": "Data Analyst",
+      "Department": "Analytics",
+      "Manager": "Jane Smith"
+    },
+    {
+      "EmployeeId": "00005",
+      "EmployeeName": "Jane Smith",
+      "DateOfBirth": "1980-02-15",
+      "Nationality": "American",
+      "Position": "Senior Manager",
+      "Department": "Development",
+      "Manager": null
+    }
+  ]
+}

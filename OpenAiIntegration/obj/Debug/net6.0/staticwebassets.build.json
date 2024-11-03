@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iqvu1+C8+ZQ8tx/Msp+lttwXjdEChW9zMWcB/fPQ84E=",
+  "Source": "OpenAiIntegration",
+  "BasePath": "_content/OpenAiIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
