@@ -1,6 +1,6 @@
 
 ## Open AI/ chat gpt api integration with .net /.core & database
-## create account in open ai and get api key for authentication http request
+## create account in open ai and get api key to authenticate httpclient request
 1.  Login : https://platform.openai.com/docs/overview
 2. create project. 
 3. generate api keys and copy to use in application
