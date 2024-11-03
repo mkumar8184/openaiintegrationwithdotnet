@@ -83,6 +83,6 @@ This code will help you for followings:
 ![image](https://github.com/user-attachments/assets/646d8759-ec8f-436c-bc63-c46306d24174)
 
 
-connect if you need to get work done on open ai with .net & angular
+connect if you need to know more ....
 Thanks 
 
