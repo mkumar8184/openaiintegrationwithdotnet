@@ -1,0 +1,12 @@
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.csproj.AssemblyReference.cache
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.GeneratedMSBuildEditorConfig.editorconfig
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.AssemblyInfoInputs.cache
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.AssemblyInfo.cs
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.csproj.CoreCompileInputs.cache
+D:\tutorial\openAiintegration\OpenAILib\bin\Debug\net6.0\OpenAILib.deps.json
+D:\tutorial\openAiintegration\OpenAILib\bin\Debug\net6.0\OpenAILib.dll
+D:\tutorial\openAiintegration\OpenAILib\bin\Debug\net6.0\OpenAILib.pdb
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.dll
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\refint\OpenAILib.dll
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\OpenAILib.pdb
+D:\tutorial\openAiintegration\OpenAILib\obj\Debug\net6.0\ref\OpenAILib.dll
