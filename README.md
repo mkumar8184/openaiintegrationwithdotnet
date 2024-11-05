@@ -6,7 +6,7 @@
 3. generate api keys and copy to use in application
 ![image](https://github.com/user-attachments/assets/05767094-fe69-486f-a856-b4ff0f5b2d15)
 
-### Important : you must pay atleast 5 $ ,else it wont work , charges are very less so you can use for more activity  .
+### Important : you must pay atleast 5 $ ,else it wont work , charges are very less so you can use for more activities  .
 ![image](https://github.com/user-attachments/assets/5e728077-d6d6-4818-a8a7-8447343aeb56)
 
 ## in attached code 
@@ -16,8 +16,9 @@ This code will help you for followings:
 2. created seperate service for open ai 
 3. db example use in json file
 4. save user search history in json file
-5. return respnse in needed object
+5. return response in needed object
 6. User search result will be saved in json file/db
+7. To analyse any data based on given prompt 
 
 ## Examples: let say we have employeedb.json file with below record
 
